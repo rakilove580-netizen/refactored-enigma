@@ -1,0 +1,5 @@
+{
+  "name": "ETC Global Invoice Generator",
+  "description": "A high-fidelity invoice editor and PDF generator designed to match the ETC Global brand identity, featuring inline editing and automatic calculations.",
+  "requestFramePermissions": []
+}
